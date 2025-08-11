@@ -1,0 +1,8 @@
+streamlit
+requests
+feedparser
+beautifulsoup4
+lxml
+python-docx
+reportlab
+openai
